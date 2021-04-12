@@ -1,0 +1,29 @@
+@media screen and (max-width:790px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .filme-principal{
+        margin-top: 5px;
+    }
+
+    header .logo{
+        margin: 0;
+    }
+
+    header .container .logoalign h4{
+        margin: 0;
+        padding: 10px;
+    }
+
+    header nav{
+        margin: 0px;
+    }
+}
+
+@media screen and (min-width:1000px){
+    .description{
+        width: 60%;
+    }
+}
