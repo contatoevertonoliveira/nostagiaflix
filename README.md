@@ -1,7 +1,7 @@
 # NostaFlix :film_strip:
-![https://github.com/contatoevertonoliveira/nostagiaflix/blob/main/img/tela1.jpg]()
+![](https://github.com/contatoevertonoliveira/nostagiaflix/blob/main/img/tela1.jpg =400px)
 
-![https://github.com/contatoevertonoliveira/nostagiaflix/blob/main/img/tela2.jpg]()
+![](https://github.com/contatoevertonoliveira/nostagiaflix/blob/main/img/tela2.jpg =400px)
 
 Elaborado a partir das aulas da Digital Innovation One, ministradas pelo professor Felipe Aguiar.
 
