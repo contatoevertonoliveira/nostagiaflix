@@ -1,7 +1,7 @@
 # NostaFlix :film_strip:
-<img src="C:\estudos\nostagiaflix\img\tela1.jpg" alt="tela1" style="width:600px" />
+![Capa Nostalfix](https://github.com/contatoevertonoliveira/nostagiaflix/blob/main/img/tela1.jpg?raw=true)
 
-<img src="C:\estudos\nostagiaflix\img\tela2.jpg" alt="tela2" style="width:600px;" />
+![Capa2 Nostalflix](https://github.com/contatoevertonoliveira/nostagiaflix/blob/main/img/tela2.jpg?raw=true)
 
 
 
