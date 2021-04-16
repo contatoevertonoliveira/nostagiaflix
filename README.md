@@ -1,4 +1,8 @@
 # NostaFlix :film_strip:
+![https://github.com/contatoevertonoliveira/nostagiaflix/blob/main/img/tela1.jpg]()
+
+![https://github.com/contatoevertonoliveira/nostagiaflix/blob/main/img/tela2.jpg]()
+
 Elaborado a partir das aulas da Digital Innovation One, ministradas pelo professor Felipe Aguiar.
 
 Agradeço mais uma vez ao site por essa iniciativa.
@@ -11,7 +15,7 @@ Agradeço mais uma vez ao site por essa iniciativa.
 
 - Mudança de nome;
 
-- Site com perfil de clientes mais velhos, acima dos 40;
+- Site com perfil de clientes mais velhos, acima dos 30;
 
 - Filmes Nostalgicos;
 
